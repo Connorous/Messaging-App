@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary" >#9E4800</color>
+    <color name="primary_darkest" >#1E1915</color>
+    <color name="primary_dark" >#40331A</color>
+    <color name="primary_text" >#000000</color>
+    <color name="secondary_text" >#F9F9F9</color>
+    <color name="tertiary_text" >#63370E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_background">#FF871C</color>
+    <color name="app_background_dark">#DE771A</color>
+    <color name="input_background">#FFF5EE</color>
+    <color name="icon_background">#68605B</color>
+    <color name="error">#FFFFFFFF</color>E6D2A3
+    <color name="sent_message_background">#DDDDDD</color>
+    <color name="received_message_background">#B05400</color>
+    <color name="last_message">#B9B2AC</color>
+    <color name="online">#B4B979</color>
+    <color name="shapeOutline">#343434</color>
+    <color name="secondary_background">#9D4A00</color>
+
+</resources>
